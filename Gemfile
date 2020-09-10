@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
-#gem 'appmap', github: 'applandinc/appmap-ruby', branch: 'master'
-gem 'appmap'
+gem 'appmap', github: 'applandinc/appmap-ruby', branch: 'master'
 
 source "https://rubygems.org"
 
